@@ -46,6 +46,50 @@ References<br/>
 <br/>
 
 ---
+
+## Introduction
+
+<br/>
+
+Breast cancer occurs in every single country of the world in women at any postpubescent age but with increasing rates in later life.
+The World Health Organisation states that in 2020 there were 2.3 million women diagnosed with breast cancer, and 685,000 deaths globally, making breast cancer the most common cancer in women. One in eight women are diagnosed with breast cancer in a lifetime, fortunately, this rate is decreasing with awareness but still many women are not aware of the early signs or symptoms.
+
+<br/>
+
+Breast cancer arises in the lining cells of the ducts or lobules in the glandular tissue of the breast. Initially, the cancerous growth is confined to the duct or lobule, where it generally causes no symptoms and has minimal potential for spread. However over time and without any treatment, these stage 1 cancers may progress and invade the surrounding breast tissue, developing into an invastive breast cancer which will then spread to the nearby lymph nodes or to other organs in the body, this is also known as distant metastasis. If a woman dies from breast cancer, it is because of widespread metastasis.
+
+<br/>
+Breast cancer treatment can be highly effective, especially when the disease is identified early. Treatment of breast cancer often consists of a combination of surgical removal, radiation therapy and medication (hormonal therapy, chemotherapy and/or targeted biological therapy) to treat the microscopic cancer that has spread from the breast tumor through the blood. Such treatment, which can prevent cancer growth and spread, thereby saves lives.
+
+<br/>
+
+For this project, I will analyse the Wisconsin breast cancer dataset. The dataset was developed in 1995 by researchers at the University of Wisconsin, and includes the measurements from digitized images of fine-needle aspirate of a breast mass. A fine-needle aspirate is a type of biopsy performed using a small needle to obtain samples of tissue and fluid from solid or cystic breast lesions. It is one of the many different modalities for diagnosing breast masses.
+
+<br/>
+The breast cancer dataset includes 569 examples of cancer biopsies, each with 32 features. One feature is an identification number, another is the cancer diagnosis and 30 are numeric-valued laboratory measurements. The diagnosis is coded as "M" to indicate malignant or "B" to indicate benign.
+
+<br/>
+The other 30 numeric measurements comprise the mean, standard error and worst (i.e. largest) value for 10 different characteristics of the digitized cell nuclei, which are as follows:-<br/>
+
+<br/>
+
+Radius<br/>
+Texture<br/>
+Perimeter<br/>
+Area<br/>
+Smoothness<br/>
+Compactness<br/>
+Concavity<br/>
+Concave Points<br/>
+Symmetry<br/>
+Fractal dimension<br/>
+
+<br/>
+
+---
+
+<br/>
+
 ## References
 
 <br/>
