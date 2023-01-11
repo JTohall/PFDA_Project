@@ -3,6 +3,28 @@ Programming for Data Analysis Assessment
 
 ---
 
+### Contents
+
+<br/>
+
+Problem Statement<br/>
+Introduction<br/>
+Dataset Description<br/>
+Different types of Classifiers<br/>
+Literature Review<br/>
+Importing Relevant Modules<br/>
+Reading in the Dataset<br/>
+Preprocessing of the Dataset<br/>
+Cleaning and Preparing the Dataset<br/>
+Statistical Analysis<br/>
+Training a Set of Classifiers<br/>
+Review of Results<br/>
+Investigation of Dataset Extension<br/>
+References<br/>
+
+<br/>
+
+---
 ## References
 
 <br/>
