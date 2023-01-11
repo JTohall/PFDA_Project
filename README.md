@@ -3,6 +3,27 @@ Programming for Data Analysis Assessment
 
 ---
 
+### Problem Statement
+<br/>
+This project will investigate the Wisconsin Breast Cancer dataset. The following list presents the requirements of the project:
+<br/>
+
+- Undertake an analysis/review of the dataset and present an overview and background.<br/>
+- Provide a literature review on classifiers which have been applied to the dataset and compare their performance<br/>
+- Present a statistical analysis of the dataset<br/>
+- Using a range of machine learning algorithms, train a set of classifiers on the dataset (using SKLearn etc.) and present classification performance results. Detail your rationale for the parameter selections you made while training the classifiers.<br/>
+- Compare, contrast and critique your results with reference to the literature<br/>
+- Discuss and investigate how the dataset could be extended – using data synthesis of new tumour datapoints<br/>
+- Document your work in a Jupyter notebook.<br/>
+- As a suggestion, you could use Pandas, Seaborn, SKLearn, etc. to perform your analysis.<br/>
+- Please use GitHub to demonstrate research, progress and consistency.<br/>
+
+<br/>
+
+---
+
+<br/>
+
 ### Contents
 
 <br/>
