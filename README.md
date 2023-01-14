@@ -1,11 +1,28 @@
-# PFDA_Project
-Programming for Data Analysis Assessment 
+
+# Programming for Data Analysis
+
+<br/>
+
+## Project II
+# An Analysis of the Wisconsin Breast Cancer Dataset
+
+<br/>
+
+Author: Jamie Tohall<br/>
+Student Number: G00411380<br/>
+Lecturer: Brian McGinley<br/>
+
+<br/>
 
 ---
 
-### Problem Statement
 <br/>
-This project will investigate the Wisconsin Breast Cancer dataset. The following list presents the requirements of the project:
+
+### Problem Statement
+
+<br/>
+This project will investigate the Wisconsin Breast Cancer dataset. The following list presents the requirements of the project:<br/>
+
 <br/>
 
 - Undertake an analysis/review of the dataset and present an overview and background.<br/>
