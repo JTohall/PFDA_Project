@@ -57,7 +57,6 @@ Cleaning and Preparing the Dataset<br/>
 Statistical Analysis<br/>
 Training a Set of Classifiers<br/>
 Review of Results<br/>
-Investigation of Dataset Extension<br/>
 References<br/>
 
 <br/>
@@ -110,27 +109,75 @@ Fractal dimension<br/>
 ## References
 
 <br/>
-[1] https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29<br/>
-[2]https://www.researchgate.net/publication/311950799_Analysis_of_the_Wisconsin_Breast_Cancer_Dataset_and_Machine_Learning_for_Breast_Cancer_Detection<br/>
-[3] https://data.world/health/breast-cancer-wisconsin/workspace/file?filename=DatasetDescription.txt<br/>
-[4] https://pubmed.ncbi.nlm.nih.gov/15460731/<br/>
-[5] https://1library.net/document/download/q5wodwwq?page=1<br/>
-[6] https://node1.123dok.com/dt01pdf/123dok_us/000/791/791788.pdf.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=7PKKQ3DUV8RG19BL%2F20230109%2F%2Fs3%2Faws4_request&X-Amz-Date=20230109T203933Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=05680f6a49547c0f47ffeb4662633159d5433730fc1692feb29475f0a6318434<br/>
-[7] https://www.youtube.com/watch?v=2ncx2q5GHbQ<br/>
-[8] http://dx.doi.org/10.4236/oalib.1100660<br/>
-[9] https://www.researchgate.net/publication/355027167_Machine_Learning_Classifiers_on_Breast_Cancer_Recurrences<br/>
-[10] https://www.who.int/news-room/fact-sheets/detail/breast-cancer<br/>
-[11] https://www.cancer.org/healthy/cancer-facts/cancer-facts-for-women.html<br/>
-[12] https://machinemantra.in/breast-cancer-wisconsin-dataset/<br/>
-[13] https://www.ijert.org/research/study-and-analysis-of-breast-cancer-data-IJERTCONV5IS21015.pdf<br/>
-[14] https://www.geeksforgeeks.org/ml-kaggle-breast-cancer-wisconsin-diagnosis-using-knn/?ref=gcse<br/>
-[15] https://deepai.org/machine-learning-glossary-and-terms/classifier#:~:text=A%20classifier%20is%20any%20algorithm%20that%20sorts%20data,pattern%20recognition%20in%20many%20forms%20of%20machine%20learning.<br/>
-[16] https://www.javatpoint.com/perceptron-in-machine-learning<br/>
-[17] https://www.javatpoint.com/machine-learning-decision-tree-classification-algorithm<br/>
-[18] https://towardsdatascience.com/logistic-regression-classifier-8583e0c3cf9<br/>
-[19] https://www.indeed.com/career-advice/career-development/classifiers-in-machine-learning#:~:text=5%20types%20of%20classifiers%20in%20machine%20learning%201,vector%20machine%20...%205%205.%20K-nearest%20neighbor%20<br/>
-[20] https://www.analyticssteps.com/blogs/types-classifiers-machine-learning<br/>
-[21] https://www.kaggle.com/code/rcfreitas/python-ml-breast-cancer-diagnostic-data-set<br/>
-[22] https://medium.com/data-science-101/exploring-breast-cancer-data-set-b1053ea71781<br/>
-[23] https://machinemantra.in/breast-cancer-wisconsin-dataset/<br/>
-[24] https://www.engineeringbigdata.com/breast-cancer-prediction-using-random-forest-algorithm-in-python/<br/>
+[1] Ahmed, T. Imtiaz, M. & Karmakar, A. (2020) *Analysis of Wisconsin Breast Cancer Original Dataset using Data Mining and Machine Learning Algorithms for Breast Cancer Prediction.* Available at: https://www.researchgate.net/publication/343260505_Analysis_of_Wisconsin_Breast_Cancer_original_dataset_using_data_mining_and_machine_learning_algorithms_for_breast_cancer_prediction (Accessed: 6 Jan 2023)
+<br/>
+
+[2] American Cancer Society (2021) *Cancer facts for Women.* Available at: https://www.cancer.org/healthy/cancer-facts/cancer-facts-for-women.html (Accessed: 3 Jan 2023)
+<br/>
+
+[3] Borges, L. (2015) *Analysis of the Wisconsin Breast Cancer Dataset and Machine Learning for Breast Cancer Detection.* Available at: https://www.researchgate.net/publication/311950799_Analysis_of_the_Wisconsin_Breast_Cancer_Dataset_and_Machine_Learning_for_Breast_Cancer_Detection (Accessed: 29 dec 2022)
+<br/>
+
+[4] Camargo De Freitas, R. (2018) *Python ML - breast cancer diagnostic data set.* Available at: https://www.kaggle.com/code/rcfreitas/python-ml-breast-cancer-diagnostic-data-set (Accessed: 6 Jan 2023)
+<br/>
+
+[5] DeepAI (2021) *What is a Classifier in Machine Learning?* Available at: https://deepai.org/machine-learning-glossary-and-terms/classifier#:~:text=A%20classifier%20is%20any%20algorithm%20that%20sorts%20data,pattern%20recognition%20in%20many%20forms%20of%20machine%20learning. (Accessed: 4 Jan 2023)
+<br/>
+
+[6] Dutta, B. (2022) *6 Types of Classifiers in Machine Learning.* Available at: https://www.analyticssteps.com/blogs/types-classifiers-machine-learning (Accessed: 3 Jan 2022)
+<br/>
+
+[7] Engineeringbigdata (2019) *Breast Cancer Dataset Analysis, Visualization and Machine Learning in Python.* Available at: https://www.engineeringbigdata.com/breast-cancer-dataset-analysis-visualization-and-machine-learning-in-python/ (Accessed 15 Jan 2023)
+<br/>
+
+[8] Engineeringbigdata (2019) *Breast Cancer Prediction using Random Forest Algorithm in Python.* Available at: https://www.engineeringbigdata.com/breast-cancer-prediction-using-random-forest-algorithm-in-python/ (Accessed: 9 Jan 2023)<br/>
+
+[9] Gupta, M. (2020) *ML|Kaggle Breast Cancer Wisconsin Diagnosis using KNN and Cross Validation.* Available at: https://www.geeksforgeeks.org/ml-kaggle-breast-cancer-wisconsin-diagnosis-using-knn/?ref=gcse (Accessed: 5 Jan 2023)
+<br/>
+
+[10] Indeed (2022) *Machine Learning Classifiers: Definition and 5 Types.* Available at: https://www.indeed.com/career-advice/career-development/classifiers-in-machine-learning (Accessed: 30 Dec 2022)
+<br/>
+
+[11] Jain, A. (2018) *Exploring Breast Cancer Data set.* Availalbe at: https://medium.com/data-science-101/exploring-breast-cancer-data-set-b1053ea71781 (Accessed: 28 Dec 2022)
+<br/>
+
+[12] Java T Point (2020) *Decision Tree Classification Algorithm.* Available at: https://www.javatpoint.com/machine-learning-decision-tree-classification-algorithm (Accessed: 6 Jan 2023)
+<br/>
+
+[13] Java T Point (2020) *Perceptron in Machine Learning.* Available at: https://www.javatpoint.com/perceptron-in-machine-learning (Accessed: 6 Jan 2023)
+<br/>
+
+[14] Kagolovsky, Y. Moehr, J. & Pantazi, S. (2002) *Cluster analysis of Wisconsin Breast Cancer dataset using self-organizing maps.* Available at: https://pubmed.ncbi.nlm.nih.gov/15460731/ (Accessed 2 Jan 2023) 
+<br/>
+
+[15] Machine Mantra (2020) *Breast Canser Wisconsin Dataset: Machine Learning Project in Python*. Available at: https://www.youtube.com/watch?v=2ncx2q5GHbQ (Accessed: 30 Dec 2022)
+<br/>
+
+[16] Machine Mantra (2020) *Breast Cancer Wisconsin Project: Python Tutorial.* Available at: https://machinemantra.in/breast-cancer-wisconsin-dataset/ (Accessed: 5 Jan 2023)
+<br/>
+
+[17] Manoli, S. & Padma, S.K. (2017) *Study and Analysis of Breast Cancer Data.* Available at: https://www.ijert.org/research/study-and-analysis-of-breast-cancer-data-IJERTCONV5IS21015.pdf (Accessed: 4 Jan 2023)
+<br/>
+
+[18] Magboo, S & Magboo, V. (2021) *Machine Learning Classifiers on Breast Cancer Recurrences.* Available at: https://www.sciencedirect.com/science/article/pii/S1877050921017816 (Accessed: 23 Dec 2022)
+<br/>
+
+[19] Paithankar, M. (2020) *Breast Cancer Classification Using Python: A guide to EDA and classification.* Available at: https://medium.com/swlh/breast-cancer-classification-using-python-e83719e5f97d (Accessed: 15 Jan 2023)
+<br/>
+
+[20] Subasi, C. (2019) *Logistic Regression Classifier.* Available at: https://towardsdatascience.com/logistic-regression-classifier-8583e0c3cf9 (Accessed: 7 Jan 2023)
+<br/>
+
+[21] Vig, L. (2014) *Comparative Analysis of Different Classifiers for the Wisconsin Breast Cancer Dataset.* Available at: https://www.academia.edu/73175278/Comparative_Analysis_of_Different_Classifiers_for_the_Wisconsin_Breast_Cancer_Dataset (Accessed: 2 Jan 2023)
+<br/>
+
+[22] Wolberg, W. (1995) *Breast Cancer Wisconsin (Original) Data Set.* Available at: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29 (Accessed: 20 Dec 2022)
+<br/>
+
+[23] Wolberg, W. (1995) *Breast Cancer Dataset Description.* Available at:
+https://data.world/health/breast-cancer-wisconsin/workspace/file?filename=DatasetDescription.txt (Accessed: 20 Dec 2022) <br/>
+
+[24] World Health Organization (2021) *Breast Cancer.* Available at: https://www.who.int/news-room/fact-sheets/detail/breast-cancer (Accessed: 3 Jan 2023)
+<br/>
+
+[25] Yahyaoui, H (2022) *Naive bayes from scratch/Breast cancer.* Available at: https://www.kaggle.com/code/helayahyaoui/naive-bayes-from-scratch-breast-cancer (Accessed: 15 Jan 2023)
